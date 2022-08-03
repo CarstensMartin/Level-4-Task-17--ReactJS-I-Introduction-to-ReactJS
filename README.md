@@ -1,5 +1,9 @@
 # Level 4 Task 17 -ReactJS I: Introduction to ReactJS
 
+## Deployed Task 2
+
+https://carstensmartin.github.io/Level-4-Task-17-CV-Deployed/
+
 ## NOTE
 
 For the purpose of showing my project I uploaded 1 file location up. In practice I will CD into "Task 2" and commit from there, which will exclude the git ignore files
